@@ -1,6 +1,6 @@
 ---
 date: 2018-10-06
-title: "Easy documentation with Docsy"
+title: "Easy documentation with Docsy & &amp; dummy"
 linkTitle: "Announcing Docsy"
 description: "The Docsy Hugo theme lets project maintainers and contributors focus on content, not on reinventing a website infrastructure from scratch"
 author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
@@ -12,6 +12,8 @@ resources:
 ---
 
 **This is a typical blog post that includes images.**
+
+It's a "first" blog post.
 
 The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.
 
@@ -42,5 +44,3 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 ```
 
 The image will be rendered at the size and byline specified in the front matter.
-
-
