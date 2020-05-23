@@ -1,4 +1,6 @@
 baseURL = "/"
+# baseURL = "http://localhost:1313/dummy/"
+# relativeURLs = true
 title = "Goldydocs"
 
 enableRobotsTXT = true
